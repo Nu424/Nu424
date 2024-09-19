@@ -1,5 +1,13 @@
-## Hi there 👋
+# こんにちは 👋
+Nu424です。  
+JavaScriptとかPythonとかで、ゆるくてたのしげなアプリを作るのが好きです🙃。
 
+---
+---
+
+# Hello 👋
+I'm Nu424.  
+I enjoy creating laid-back and fun apps using JavaScript and Python🙃.
 <!--
 **Nu424/Nu424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
